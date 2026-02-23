@@ -1,4 +1,4 @@
-**MCP(Model Context Protocol)**的作用：AI本来无法读取我的数据库或连接我的github，通过配置`MCP`让它可以做到这些事
+**MCP(Model Context Protocol)** 的作用：AI本来无法读取我的数据库或连接我的github，通过配置`MCP`让它可以做到这些事
 
 ![img1](./images/img1.png)
 
